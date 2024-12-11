@@ -1,4 +1,4 @@
-# Brainwave_Matrix_Intern_Projects
+# CyberSecurity_Projects
 Hii
 This is regarding the project of Cyber Security and Ethical Hacking Internship 
 
